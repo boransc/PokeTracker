@@ -4,6 +4,7 @@ Track which Gen-1 Pokémon you’ve **seen** and **caught**, browse rich details
 
 > Built for a university assignment: local-only data (no external APIs), clear modular structure, and a focus on UX polish and code quality.
 
+You can test this app on https://snack.expo.dev/@arashii/poketracker-final-app?platform=android
 ---
 
 ## ✨ Features
@@ -130,18 +131,6 @@ The tracker state (seen/caught/favourite, notes, and any custom entries) is save
 - **Interaction**: toggle seen/caught/favourite, search edge cases.  
 - **Navigation**: list → detail → back → settings.  
 - **Persistence**: data survives reload; reset clears correctly.  
-
----
-
-## 📸 Screenshots
-
-Add your screenshots to `assets/` and link them here:
-
-| List | Detail | Tutorial | Settings |
-|------|--------|----------|----------|
-| ![List](assets/screens/list.png) | ![Detail](assets/screens/detail.png) | ![Tutorial](assets/screens/tutorial.png) | ![Settings](assets/screens/settings.png) |
-
-*(Replace with actual paths or remove if not needed.)*  
 
 ---
 
